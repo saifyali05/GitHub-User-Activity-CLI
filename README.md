@@ -59,7 +59,10 @@ Uses the [GitHub Events API](https://docs.github.com/en/rest/activity/events) en
 ```
 GET https://api.github.com/users/{username}/events
 ```
-
+## Project url
+```
+https://github.com/saifyali05/GitHub-User-Activity-CLI
+```
 ## License
 
 ISC
