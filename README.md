@@ -61,7 +61,7 @@ GET https://api.github.com/users/{username}/events
 ```
 ## Project url
 ```
-https://github.com/saifyali05/GitHub-User-Activity-CLI
+https://roadmap.sh/projects/github-user-activity
 ```
 ## License
 
